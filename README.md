@@ -15,3 +15,5 @@ Then: `$ make all`
 ### Authors:
 * [BogomolovaPolyak](https://github.com/BogomolovaPolyak)
 * [MikavaN](https://github.com/MikavaN)
+
+![](https://github.com/BogomolovaPolyak/minibash/blob/master/screencast/screencast.gif)
